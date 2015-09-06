@@ -3,4 +3,4 @@ Once you are done, you can push the changes back to your repository and request
 to pull the changes to the main branch. This will allow Mr. Lamont to see you 
 have figured out of to use GitHub  :)
 
-Name:
+Name: HHSS-Student
